@@ -29,7 +29,7 @@ abstract class ArticleDatabase :RoomDatabase(){
                 ArticleDatabase ::class.java,
                 "article_db.db"
 
-            ).fallbackToDestructiveMigration().build()
+            ).addMigrations().build()
 
     }
 }
