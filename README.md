@@ -1,4 +1,5 @@
-News Application
+<p style="font-size:16px;">News Application.</p>
+
 This News Application is designed to fetch news from the News API using Retrofit and OkHttp. The app is built using the MVVM architecture and utilizes Room database to cache the news data retrieved from the API.
 
 Features
