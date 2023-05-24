@@ -20,7 +20,7 @@ Navigation Component: For handling navigation between different screens.
 Coroutines: For asynchronous programming and handling background tasks.
 Glide: For loading and displaying images.
 Material Components: For implementing a modern and user-friendly UI.
-![Image Alt Text](https://github.com/muradhani/New-app/commit/8c2f9487f218696026b4d8b8ae4b16797f406977#diff-b13a078ee0bfdf2075982ef8fce24176a00b7822ab9bda79132fe6213367b848)
-![Image Alt Text](images\Screenshot_20230524_130645.png)
-![Image Alt Text](images\Screenshot_20230524_130700.png)
-![Image Alt Text](images\Screenshot_20230524_130713.png)
+![Image Alt Text](https://github.com/muradhani/New-app/blob/main/images/Screenshot_20230524_130612.png?raw=true)
+![Image Alt Text](https://github.com/muradhani/New-app/blob/main/images/Screenshot_20230524_130645.png?raw=true)
+![Image Alt Text](https://github.com/muradhani/New-app/blob/main/images/Screenshot_20230524_130700.png?raw=true)
+![Image Alt Text](https://github.com/muradhani/New-app/blob/main/images/Screenshot_20230524_130713.png?raw=true)
